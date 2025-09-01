@@ -1,0 +1,1 @@
+This project is a simple digital business card created using HTML and CSS. It features a clean, responsive design that displays essential contact information in a professional layout. Open index.html in any browser to view it.
